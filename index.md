@@ -1,4 +1,4 @@
-<img style="float: left; padding-right:50px;" src="images/tsalmi.jpg">
+<img style="float: left; padding-right:30px;" src="images/tsalmi.jpg">
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-I am an astrophysicist working currently as a Postdoctoral researcher in [University of Amsterdam](https://www.uva.nl/en/) (The Netherlands) in collaboration with Anna Watts. 
+I am an astrophysicist working currently as a Postdoctoral researcher in [University of Amsterdam](https://www.uva.nl/en/) (The Netherlands) in collaboration with the group of Anna Watts. 
 I study neutron stars using X-ray instruments like NICER and IXPE.
 Previously, I finished my PhD (at the end of 2020) in [University of Turku](https://www.utu.fi/en/university) (Finland) in the high-energy astrophysics group of Juri Poutanen.
 
