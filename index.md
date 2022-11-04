@@ -1,3 +1,7 @@
+<img style="float: left; padding-right:50px;" src="images/tsalmi.jpg">
+
+
+
 # About me
 
 
