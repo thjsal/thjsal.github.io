@@ -13,4 +13,4 @@ Previously, I finished my PhD (at the end of 2020) in [University of Turku](http
 
 ### Research
 
-I mainly study topics related to high-energy astrophysics, including neutron stars, X-ray pulse profile modeling, equation of state of dense matter, neutron star atmospheres, radiative transfer, X-ray polarimetry, and accretion phenomena. In my work, I apply methods such as high-performance computing, coding in Python/Julia/Fortran/C++ language, and statistical inference. A CV and a publication list will be added here. 
+I mainly study topics related to high-energy astrophysics, including neutron stars, X-ray pulse profile modeling, equation of state of dense matter, neutron star atmospheres, radiative transfer, X-ray polarimetry, and accretion phenomena. In my work, I apply methods such as high-performance computing, coding in Python/Julia/Fortran/C++ language, and statistical inference. A list of my publications can be found here: [ADS](https://ui.adsabs.harvard.edu/search/q=Salmi%2C%20Tuomo%20collection%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
