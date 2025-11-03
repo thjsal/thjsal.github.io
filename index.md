@@ -1,4 +1,4 @@
-<img style="float: left; padding-right:30px;" src="images/tsalmi.jpg">
+<img style="float: left; width: 25%; max-width: 180px; padding-right: 30px;" src="images/tsalmi.jpg">
 
 
 
